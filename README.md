@@ -1,3 +1,4 @@
+![logo](https://![image](https://user-images.githubusercontent.com/81566150/197325951-6411e71a-a62b-4c25-8153-f084cc05fa87.png))
 <h1 align="center">Hi 👋, I'm Akash Haridas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
